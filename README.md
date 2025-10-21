@@ -1,4 +1,4 @@
-<!doctype html>
+<!doctypehtml>
 <html lang="pt-br">
 <head>
   <meta charset="utf-8">
